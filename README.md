@@ -12,3 +12,6 @@
 
 # Hardware
 * [envybits](https://envybits.com/) - Enter your budget and let the algorithm pick out PC parts for you
+
+# Games
+* [OpenRCT2](https://openrct2.org/) - An open source re-implementation and expansion of RollerCoaster Tycoon 2
