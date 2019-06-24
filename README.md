@@ -1,4 +1,6 @@
-# Applications
+# Software
+* [Alacritty](../../../../jwilm/alacritty) - A GPU-accelerated terminal emulator written in Rust
+* [dwm](https://dwm.suckless.org/) - The dynamic window manager
 * [Mathpix](https://mathpix.com/) - Convert images to LaTex
 
 # Development
@@ -6,8 +8,7 @@
 * [Figma](https://figma.com/) - The collaborative interface design tool
 * [RegExr](https://regexr.com/) - Learn, build, & test RegEx
 
-# Desktop Utilities
-* [dwm](https://dwm.suckless.org/) - The dynamic window manager
+# Desktop Customization
 * [Sourcerer](https://sourcerer.xero.nu/) - A color scheme
 
 # Hardware
