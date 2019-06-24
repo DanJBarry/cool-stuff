@@ -20,6 +20,6 @@
 
 # Operating Systems
 * [Gentoo](https://gentoo.org/) - A source-based, rolling-release Linux distribution
-* [NixOS](https://nixos.org/) - A Linux distribution build on top of the purely functional Nix package manager
+* [NixOS](https://nixos.org/) - A Linux distribution built on top of the purely functional Nix package manager
 * [OpenBSD](https://openbsd.org/) - The secure-by-default operating system
 * [RedoxOS](https://redox-os.org/) - An operating system written in Rust
