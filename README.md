@@ -1,11 +1,12 @@
 # Software
-* [Alacritty](../../../../jwilm/alacritty) - A GPU-accelerated terminal emulator written in Rust
+* [Alacritty](../../../../jwilm/alacritty/) - A GPU-accelerated terminal emulator written in Rust
 * [dwm](https://dwm.suckless.org/) - The dynamic window manager
 * [LibreSSL](https://libressl.org/) - A fork of OpenSSL made in response to Heartbleed
 * [Mathpix](https://mathpix.com/) - Convert images to LaTex
+* [Tron](../../../../bmrf/tron/) - A comprehensive Windows cleanup script
 
 # Development
-* [Black](../../../../python/black) - The uncompromising Python code formatter
+* [Black](../../../../python/black/) - The uncompromising Python code formatter
 * [Figma](https://figma.com/) - The collaborative interface design tool
 * [RegExr](https://regexr.com/) - Learn, build, & test RegEx
 
