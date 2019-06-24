@@ -1,6 +1,7 @@
 # Software
 * [Alacritty](../../../../jwilm/alacritty) - A GPU-accelerated terminal emulator written in Rust
 * [dwm](https://dwm.suckless.org/) - The dynamic window manager
+* [LibreSSL](https://libressl.org/) - A fork of OpenSSL made in response to Heartbleed
 * [Mathpix](https://mathpix.com/) - Convert images to LaTex
 
 # Development
@@ -16,3 +17,9 @@
 
 # Games
 * [OpenRCT2](https://openrct2.org/) - An open source re-implementation and expansion of RollerCoaster Tycoon 2
+
+# Operating Systems
+* [Gentoo](https://gentoo.org/) - A source-based, rolling-release Linux distribution
+* [NixOS](https://nixos.org/) - A Linux distribution build on top of the purely functional Nix package manager
+* [OpenBSD](https://openbsd.org/) - The secure-by-default operating system
+* [RedoxOS](https://redox-os.org/) - An operating system written in Rust
