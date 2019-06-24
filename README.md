@@ -11,7 +11,7 @@
 # Desktop Customization
 * [Sourcerer](https://sourcerer.xero.nu/) - A color scheme
 
-# Hardware
+# Online Utilities
 * [envybits](https://envybits.com/) - Enter your budget and let the algorithm pick out PC parts for you
 
 # Games
