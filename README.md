@@ -5,10 +5,14 @@
 * [Mathpix](https://mathpix.com/) - Convert images to LaTex
 * [Tron](../../../../bmrf/tron/) - A comprehensive Windows cleanup script
 
-# Development
+# Development Tools
 * [Black](../../../../python/black/) - The uncompromising Python code formatter
 * [Figma](https://figma.com/) - The collaborative interface design tool
 * [RegExr](https://regexr.com/) - Learn, build, & test RegEx
+
+# Languages
+* [Rust](https://www.rust-lang.org/) - A multi-paradigm system programming language focused on safety, especially safe concurrency
+* [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds optional types that support tools for large-scale applications
 
 # Desktop Customization
 * [Sourcerer](https://sourcerer.xero.nu/) - A color scheme
